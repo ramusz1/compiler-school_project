@@ -1,4 +1,7 @@
 This repository contains one of my school assignments - compiler of a simple programming language. 
+Available constructions in this language :
+if, if - else, while, for, read, write, basic arithmetic operations and arrays.
+labor4 file contains interpreter of produced output.
 
 Zawartość folderu:
 	Makefile - do kompilacji
