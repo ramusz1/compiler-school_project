@@ -1,0 +1,15 @@
+This repository contains one of my school assignments - compiler of a simple programming language. 
+
+Zawartość folderu:
+	Makefile - do kompilacji
+	README - ten plik
+	parser.yy - plik Bizon-a
+	scanner.ll - plik Flex-a
+	pozostałe pliki to pliki z poszczególnymi komponentami mojego kompilatora
+
+Po kompilacji kompilator znajduje się w pliku compiler.out
+
+Sposób użycia:
+	./compiler.out plik_wejściowy plik_wyjściowy
+	gdzie plik_wyjściowy zawiera kod maszyny rejestrowej
+
